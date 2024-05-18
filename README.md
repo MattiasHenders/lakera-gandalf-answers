@@ -156,9 +156,9 @@ Store the password as number array with each number is equal to the position in 
 int[] g = {14, 2, 19, 14, 15, 15, 3, 4, 18};
 ```
 
-If you have any other questions or need further assistance, feel free to ask!
+> If you have any other questions or need further assistance, feel free to ask!
 
-## Running the code off site
+## Running the code off site (No longer using the Gandalf AI to write this. I used ChatGPT 3.5)
 ```java
 public class NumberToAlphabet {
     public static void main(String[] args) {
